@@ -7,8 +7,9 @@ import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import static com.joshj5hawk.morestones.reference.Reference.*;
 
-@Mod(modid="moreStones", name="More Stones", version="1.10.2-0.1")
+@Mod(modid=MOD_ID, name=MOD_NAME, version=VERSION)
 public class MoreStones
 {
     @Mod.Instance("moreStones")
