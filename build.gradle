@@ -22,7 +22,7 @@ plugins {
 */
 version = "1.10.2-0.1"
 group= "com.joshj5hawk.morestones" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "moreStones"
+archivesBaseName = "MoreStones"
 
 minecraft {
     version = "1.10.2-12.18.1.2014"
